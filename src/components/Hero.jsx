@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 import React, { useState } from "react";
-import resumeFile from "../assets/Resume_CHAIMAE.pdf";
+import resumeFile from "../assets/CV.pdf";
 import { FaArrowUp } from "react-icons/fa";
 
 const Hero = () => {
@@ -13,7 +13,7 @@ const Hero = () => {
     setTimeout(() => {
       const link = document.createElement("a");
       link.href = resumeFile;
-      link.download = "Resume_CHAIMAE.pdf";
+      link.download = "CV.pdf";
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);

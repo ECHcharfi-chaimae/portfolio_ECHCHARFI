@@ -161,12 +161,11 @@ const experiences = [
     company_name: "NTT DATA",
     icon: nttdata,
     iconBg: "#ffffffff",
-    date: "January 2022 - December 2022",
+    date: "January 2022 - Mai 2022",
     points: [
       "Completed a pre-hire internship at NTT DATA, designing and developing a recruitment web application with integrated candidate tracking and HR data analytics modules.",
       "Built an interactive dashboard to visualize key recruitment indicators, enabling HR teams to access both summary and detailed insights.",
       "Leveraged Angular for front-end development and Spring Boot + Hibernate for back-end services and data persistence.",
-      "Converted internship success into a full-time role, contributing to multiple enterprise projects within the company.",
     ],
   },
   {
@@ -174,7 +173,7 @@ const experiences = [
     company_name: "Naja7Host",
     icon: host,
     iconBg: "#383E56",
-    date: "Mai 2022 - August 2023",
+    date: "Mai 2021 - August 2021",
     points: [
       "Developed a web application for COVID-19 vaccination management using Laravel and Tailwind CSS.",
       "Designed modules for appointment scheduling, patient management, and vaccination tracking.",
