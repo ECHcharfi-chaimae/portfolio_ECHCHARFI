@@ -161,7 +161,7 @@ const experiences = [
     company_name: "NTT DATA",
     icon: nttdata,
     iconBg: "#ffffffff",
-    date: "January 2022 - Mai 2022",
+    date: "January 2022 - December 2022",
     points: [
       "Completed a pre-hire internship at NTT DATA, designing and developing a recruitment web application with integrated candidate tracking and HR data analytics modules.",
       "Built an interactive dashboard to visualize key recruitment indicators, enabling HR teams to access both summary and detailed insights.",
